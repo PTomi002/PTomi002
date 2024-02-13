@@ -9,6 +9,6 @@
 
 </div>
 
-# System Design:
+# System Design
 - https://github.com/donnemartin/system-design-primer
 - https://roadmap.sh/software-design-architecture
