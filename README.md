@@ -8,3 +8,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PTomi002&theme=github) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PTomi002&theme=github)
 
 </div>
+
+# System Design:
+- https://github.com/donnemartin/system-design-primer
+- https://roadmap.sh/software-design-architecture
