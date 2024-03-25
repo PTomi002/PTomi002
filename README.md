@@ -9,7 +9,7 @@
 
 <h1 style="text-align: center;">System Design</h1>
 <dl>
-  <dt>https://github.com/donnemartin/system-design-primer</dt>
+  <dt>https://github.com/PTomi002/system-design-primer</dt>
   <dt>https://roadmap.sh/software-design-architecture</dt>
 </dl>
 
