@@ -51,6 +51,16 @@
 </td>
 </tr>
 <tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⎈ Helm 101
+> commands
+
+- [KNOWLEDGE BASE](documents/helm/KNOWLEDGE.md)
+
+</td>
+</tr>
 <td width="50%" valign="top">
 
 ### 📨 Kafka 101
