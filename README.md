@@ -41,9 +41,9 @@
 <td width="50%" valign="top">
 
 ### 🐳 Docker 101
-> docker swarm
+> docker swarm, dind, dood
 
-- [Docker Knowledge Base](./knowledge.md#docker)
+- [KNOWLEDGE BASE](documents/docker/KNOWLEDGE.md)
 
 
 - [Simple Docker Project](https://github.com/PTomi002/docker-sample-project)
@@ -54,7 +54,10 @@
 <td width="50%" valign="top">
 
 ### 📨 Kafka 101
-> event streaming
+> event streaming, scram
+
+- [KNOWLEDGE BASE](documents/kafka/KNOWLEDGE.md)
+
 
 - [Udemy - Kafka Basics](https://github.com/PTomi002/course-kafka)
 
