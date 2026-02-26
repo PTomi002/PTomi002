@@ -39,7 +39,7 @@ ssl.truststore.location=kafka.client.truststore.jks
 ssl.truststore.password=truststore-password
 ```
 
-#### HOW-TO: Rotate Password
+### HOW-TO: Rotate Password
 
 1. Prepare or Set the new password in Azure Key Vault.
 2. Set the new password on the kafka broker (the same time as Step 1).
