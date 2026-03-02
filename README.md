@@ -19,8 +19,6 @@
 > strategic patterns, tactical patterns, event sourcing, cqrs, saga, monorepo
 
 - [Ordering Service](https://github.com/PTomi002/course-ddd-order-service)
-
-
 - [Fork - Patrons Library](https://github.com/PTomi002/fork-ddd-example-one)
 - [Fork - Ordering Service](https://github.com/PTomi002/fork-ddd-xample-two)
 
@@ -34,7 +32,6 @@
 
 - [Terraform - AWS Networking](https://github.com/PTomi002/aws-terraform-project)
 - [Terraform - AWS Lambda](https://github.com/PTomi002/aws-lambda-scheduled-function)
-
 - [Mini DevOps Infra](https://github.com/PTomi002/mini-devops-infra)
 
 </td>
@@ -44,8 +41,6 @@
 > docker swarm, dind, dood
 
 - [KNOWLEDGE BASE](documents/docker/KNOWLEDGE.md)
-
-
 - [Simple Docker Project](https://github.com/PTomi002/docker-sample-project)
 
 </td>
@@ -60,6 +55,14 @@
 - [KNOWLEDGE BASE](documents/helm/KNOWLEDGE.md)
 
 </td>
+<td width="50%" valign="top">
+
+### 🐙 GitHub 101
+> event types, workflow
+
+- [KNOWLEDGE BASE](documents/github/KNOWLEDGE.md)
+
+</td>
 </tr>
 <td width="50%" valign="top">
 
@@ -67,8 +70,6 @@
 > event streaming, scram
 
 - [KNOWLEDGE BASE](documents/kafka/KNOWLEDGE.md)
-
-
 - [Udemy - Kafka Basics](https://github.com/PTomi002/course-kafka)
 
 </td>
@@ -81,6 +82,23 @@
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗄️ Reactive Streams 101
+> error, debug
+
+- [KNOWLEDGE BASE](documents/reactive-streams/KNOWLEDGE.md)
+
+</td>
+<td width="50%" valign="top">
+
+### 🗄️ Snyk 101
+> integrations, scan
+
+- [KNOWLEDGE BASE](documents/snyk/KNOWLEDGE.md)
+
+</td>
 <tr>
 <td width="50%" valign="top">
 
@@ -99,8 +117,6 @@
 
 - [GenAI Course - Fork](https://github.com/PTomi002/fork-gen-ai-course)
 - [GenAI Course - Udemy](https://github.com/PTomi002/course-gen-ai)
-
-
 - [Neural Network From Scratch](https://github.com/PTomi002/course-nnfs)
 - [Mastra AI](https://github.com/PTomi002/course-pobaa)
 
@@ -114,17 +130,11 @@
 
 - [Kotlin Language Features](https://github.com/PTomi002/kotlin-demo-project)
 - [Kotlin Stock Calculator](https://github.com/PTomi002/stock-calculator)
-
-
 - [Java Concurrency - Theory](https://github.com/PTomi002/course-extreme-java-concurrency)
 - [Java Concurrency - Exercise](https://github.com/PTomi002/course-extreme-java-concurrency-exercises)
 - [Java Concurrency - JHM Benchmark](https://github.com/PTomi002/jhm-benchmark-demo-project)
-
-
 - [Java Design Patterns - Theory](https://github.com/PTomi002/course-java-design-patterns)
 - [Java Design Patterns - Exercises](https://github.com/PTomi002/course-java-design-patterns-exercises)
-
-
 - [Java NIO](https://github.com/PTomi002/course-java-nio)
 - [Java Data Structures](https://github.com/PTomi002/course-java-data-structures)
 
@@ -147,8 +157,6 @@
 
 - [Telnet Implementation](https://github.com/PTomi002/msc-computer-security)
 - [CORBA Client - Server](https://github.com/PTomi002/msc-corba)
-
-
 - [Trouble Report Handler - Enterprise JavaBeans](https://github.com/PTomi002/msc-j2ee)
 - [Trouble Report Handler - Spring](https://github.com/PTomi002/msc-laboratory)
 - [Trouble Report Handler - Tester](https://github.com/PTomi002/msc-laboratory-tester)
