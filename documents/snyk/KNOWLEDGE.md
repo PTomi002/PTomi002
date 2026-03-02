@@ -8,6 +8,8 @@ The different integration types and scans result in different outputs.
 
 Snyk scan issued via CLI in the CI/CD pipelines.
 
+Ignoring vulnerabilities can be done via `.snyk` file.
+
 Pros:
 - Sees the actual build environment / dependencies
 - Has access to the build outputs (gradle artifacts / files)
@@ -16,6 +18,8 @@ Pros:
 #### via GitHub
 
 Snyk connects to the repository via GutHub API.
+
+Ignoring vulnerabilities can be done only by Snyk UI.
 
 Pros:
 - Helm templating works with this type
