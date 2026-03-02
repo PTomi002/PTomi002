@@ -119,6 +119,7 @@
 - [GenAI Course - Udemy](https://github.com/PTomi002/course-gen-ai)
 - [Neural Network From Scratch](https://github.com/PTomi002/course-nnfs)
 - [Mastra AI](https://github.com/PTomi002/course-pobaa)
+- [Confluent Event Driven Agents](documents/ai-agents/attachments/Event-Driven-Agents.pdf)
 
 </td>
 </tr>
