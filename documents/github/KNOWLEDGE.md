@@ -7,3 +7,7 @@ TODO
 ### ChatOps Approach
 
  TODO
+ 
+### Rate Limited Docker Pull
+
+???
