@@ -47,7 +47,18 @@ Scans the Dockerfiles and the base images used fo the containers.
 
 ### Commands
 
+Issue local Snyk testing and have a result SARIF file:
 ```
-snyk test
-snyk iac test
+snyk test --sarif-file-output=results.sarif
 ```
+
+Make continuous monitoring by sending snapshots to the Snyk Cloud:
+```
+snyk container monitor myregistry.io/app:v1.2.3 \
+    --project-name=prod-app-container \
+    --project-tags=environment=production,team=backend
+```
+
+### SARIF File
+
+A JSON based standard format to represent the output from static analysis tools.
