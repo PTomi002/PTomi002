@@ -24,7 +24,14 @@ TODO
 
 ##### Virtual Machines
 
-TODO
+VMs comes with different types and features, one example is: ***Standard_F2s_v2***
+with 2 vCPUs and 4GB memory, 16 GB temp storage (local), max 4 attachable Remote Storages.
+
+The ***Fsv2 Series*** within family ***F Family*** comes with multiple features like:
+- Live Migration - basically maintenance / upgrade without reboot
+- Ephemeral OS Disk - uses local storage for the OS
+- ... many more ...
+
 
 ##### Virtual Machine Scale Set (VMSS)
 
