@@ -73,7 +73,17 @@ the ***OS Disk*** and the attached ***Remote Storages***.
   - Persistent storage for the OS
   - For cost saving can be used to store app data
 
-How do ***Kubernetes*** maps Persistent Volume Claims to Disks?
+How do ***Kubernetes*** maps ***Persistent Volume Claim*** to Disks?
 
 ![PVC To Azure Disk](./attachments/pvc_to_azure_disk.png)
+
+What happens if I define an ***emptyDir*** in Kubernetes as a volume?
+
+```
+This volume typically uses the underlying local node disk storage.
+Data written to this volume type persists only for the lifespan of the pod.
+```
+###### Related Articles
+
+- https://learn.microsoft.com/en-us/azure/aks/concepts-storage
 
