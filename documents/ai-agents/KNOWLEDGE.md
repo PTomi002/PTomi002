@@ -4,13 +4,13 @@
 
 ##### Beads
 
-Beads is an AI-native issue tracker and memory system, Jira for AI Agents to track their progress.
+Beads CLI is an AI-native issue tracker and memory system, Jira for AI Agents to track their progress.
 
-Represent tasks in a Directed Acyclic Graph, as the AI Agent discovers tasks, it will create Beads, which will be versioned controlled in Dolt.
+A Bead represents tasks in a Directed Acyclic Graph, as the AI Agent discovers tasks, it will create Beads, which will be versioned controlled in Dolt.
 
 As you work on branches the memory of what we are doing on that branch stays there.
 
-As we progress on the beads, we can push it to share with other agents.
+As we progress on the beads, we can sync it to share with other agents.
 
 e.g.: Login System
 ```
@@ -34,7 +34,7 @@ Dolt is essentially "Git for Data."
 
 It is a SQL database that you can fork, clone, branch, merge, and push/pull just like a Git repository, so the project memory became brancheable.
 
-e.g.: on a branch feature/XYZ the AI Agents wont see tasks or bugs from the main branch, so their context wont be polluted.
+e.g.: on a branch feature/XYZ the AI Agents wont see tasks or bugs from the main branch, so their context wont be polluted, and it will see the branch specific beads.
 
 #### Workflow
 
