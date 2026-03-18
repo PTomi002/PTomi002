@@ -8,6 +8,7 @@ gt install . --git
 Start all daemon services:
 ```
 gt up
+gt shutdown
 ```
 
 Login to GitHub
@@ -36,4 +37,9 @@ gt dashboard --open
 Attach ***Mayor*** to the current terminal:
 ```
 gt mayor attach
+```
+
+Start a feature development:
+```
+gt convoy create "Release prep" gt-abc --notify           # defaults to mayor
 ```
